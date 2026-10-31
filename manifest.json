@@ -1,0 +1,11 @@
+{
+  "display_name": "本地 Build · 酒馆分流",
+  "loading_order": 900,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Build Standalone contributors / cy4268",
+  "version": "0.1.0",
+  "description": "复用 Build Standalone 分流：预设进正文，背景和历史进附件，直连无浏览器 Build 助手；仅对 build-st/ 模型启用。",
+  "homePage": "https://github.com/cy4268/aistudio-build-tavern"
+}
